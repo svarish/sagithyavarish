@@ -6,6 +6,15 @@
   background: #fafafa;
 }
 
+.hero-arrow-down{
+  margin-top: -100px;
+  padding-left: 300px;
+}
+.hero-arrow-up{
+  margin-top: -20px;
+  padding-left: 240px;
+}
+
 .hero-sidebar{
     position: absolute;
     left: 0;
