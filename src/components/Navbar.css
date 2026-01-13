@@ -1,0 +1,24 @@
+.navbar {
+  height: 70px;
+  background: black;
+  color: #D7C175;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 80px;
+  font-size: 14px;
+
+}
+
+.nav-links {
+  display: flex;
+  gap: 40px;
+  font-family: "Martian Mono";
+  font-size: 12px;
+  cursor: pointer;
+}
+.nav-logo {
+  height: 20px;   /* adjust to match design */
+  object-fit: contain;
+}
+
