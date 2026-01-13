@@ -11,6 +11,7 @@ export default function Hero() {
         {/* LEFT */}
         <div className="hero-left">
           <h1 className="title pecita">
+          <div className="hero-arrow-down"><img src="rotatedarrow.png" width="400px" height="800px"/></div>
             <span className="heart"><img src="/heart.png"></img></span> hi, I am Sagithya Varish
           </h1>
 
@@ -19,6 +20,8 @@ export default function Hero() {
           <p className="social martian">
             in · x · @sagithyavarish
           </p>
+          <div className="hero-arrow-up"><img src="rotatedup.png" width="200px" height="200px" /></div>
+      
         </div>
 
         {/* RIGHT */}
