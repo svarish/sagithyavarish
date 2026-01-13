@@ -5,7 +5,6 @@
   /* background: hsl(0, 0%, 100%); */
   background: #fafafa;
 }
-
 .hero-arrow-down{
   margin-top: -100px;
   padding-left: 300px;
@@ -14,7 +13,6 @@
   margin-top: -20px;
   padding-left: 240px;
 }
-
 .hero-sidebar{
     position: absolute;
     left: 0;
@@ -36,7 +34,8 @@
 }
 
 .title {
-  padding-top: 20px;  
+  margin-top: -10%;
+  /* padding-top: 0px;   */
   font-size: 34px;
   font-weight: 400;
   margin-bottom: 8px;
@@ -120,7 +119,7 @@
 /* BOTTOM SKILLS */
 .herospace{
     padding-left: 50%;
-    padding-top: 420px;
+    padding-top: 150px;
 }
 .hero-bottom {
   
