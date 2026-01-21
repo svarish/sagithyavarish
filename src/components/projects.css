@@ -1,6 +1,7 @@
 .projects-section {
   background: #fafafa;
   padding: 80px;
+  margin-top: -120px;
 }
 
 /* TITLE */
@@ -11,6 +12,22 @@
   color: #000;
   margin-left: 120px;
 
+}
+
+
+.doodle-heart{
+  width: 380px;
+  height: 150px;
+  margin-left: 750px;
+  margin-top: -120px;
+  margin-bottom: 10px;
+}
+.doodle-heart-down{
+  width: 380px;
+  height: 150px;
+  margin-left: 50px;
+  margin-top: -50px;
+  margin-bottom: 10px;
 }
 
 /* CAROUSEL LAYOUT */
@@ -127,3 +144,13 @@
     margin-left: -80px;
     filter: grayscale(100%);
 } 
+/* .arrow-heart{
+  /* width: 380px;
+  height: 150px; */
+  /* width:200px;
+  height: auto;
+  margin-left: 480px;
+  margin-top: -50px;
+  margin-bottom: 10px;
+   */
+/* } */ 

@@ -25,7 +25,12 @@ export default function Projects() {
         
       <h2 className="projects-title">
         <span className="heart"><img src="/heart.png"/></span> Projects
+
+        
       </h2>
+      {/* <div className="arrow-heart"><img src="/rotatedarrow.png"/></div> */}
+      <div className="doodle-heart"><img src="/doodleheart.png"/></div>
+     
 
       {/* CAROUSEL */}
       <div className="carousel-container">
@@ -89,7 +94,8 @@ Click Here</p>
 
         <button className="arrow right" onClick={scrollRight}>→</button>
       </div>
-
+      <div className="doodle-heart-down"><img src="/doodleheart.png"/></div>
     </section>
+   
   );
 }
